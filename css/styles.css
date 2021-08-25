@@ -9,7 +9,6 @@ body {
   font-family: "Raleway", "sans-serif";
   background-color: #FFEFE5;
 }
-}
 
 /* Header */
 
@@ -148,7 +147,8 @@ h2 {
 }
 .active-work img,
 .img-card img {
-  border: 2px solid white;
+  border: 2px solid white
+  ;
   width: 100%;
 }
 .work-gallery {
@@ -175,6 +175,7 @@ h2 {
   flex-direction: column;
   align-items: center;
   text-align: center;
+
 }
 .testimonial img {
   width: 150px;
